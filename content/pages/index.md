@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: This is Van Pham
+    title: Hello World! This is Van Pham
     subtitle: ''
     styles:
       self:
