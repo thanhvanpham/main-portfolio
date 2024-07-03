@@ -125,7 +125,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Want to connect
+    title: "Want to connect \U0001F4AC? My pleasure"
     form:
       type: FormBlock
       elementId: sign-up-form
