@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello World! This is Van Pham
-    subtitle: 'I''m a '
+    subtitle: I'm a
     styles:
       self:
         height: auto
